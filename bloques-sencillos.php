@@ -38,6 +38,6 @@
     } while ($a <= 10);
 
     //El ciclo for se utiliza cuando sabemos cuantas veces se debe repetir un bloque de codigo
-    for ($i=0; $i < ; $i++) { 
+    for ($i=0; $i < 3; $i++) { 
         # code...
     }
